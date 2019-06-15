@@ -18,11 +18,6 @@ Classes are imbalanced. Non-toxic comments contribute for almost up to 90% of th
 
 ### Models
 
-##### Simple Models
-
-1. Logistic Regression (logistic.ipynb)
-2. Naive Bayes Support Vector Machine (NBSVM.ipynb)
-
 ##### Neural Network Models
 
 1. Convolutional Neural Networks (cnn.ipynb)
